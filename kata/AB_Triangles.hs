@@ -1,4 +1,4 @@
-module Triangles where
+module AB_Triangles where
 
 import Data.List (sort)
 
