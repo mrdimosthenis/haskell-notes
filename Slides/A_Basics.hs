@@ -1,4 +1,4 @@
-module A_Basics where
+module Slides.A_Basics where
 
 import Numeric.Natural
 import Data.Function

@@ -1,4 +1,4 @@
-module AA_Likes where
+module Exercises.AA_Likes where
 
 likes :: [String] -> String
 likes []       = "no one likes this"

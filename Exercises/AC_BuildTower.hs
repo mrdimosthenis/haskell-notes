@@ -1,4 +1,4 @@
-module AC_BuildTower where
+module Exercises.AC_BuildTower where
 
 buildFloor :: Int -> Int -> String
 buildFloor i n = let spaces = replicate (n - i) ' '
