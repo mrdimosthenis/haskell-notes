@@ -1,4 +1,4 @@
-module Exercises.AG_Groups where
+module AG_Groups where
 
 groupCheck :: String -> Bool
 groupCheck "" = True

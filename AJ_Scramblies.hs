@@ -1,4 +1,4 @@
-module Exercises.AJ_Scramblies where
+module AJ_Scramblies where
 
 import Data.List ((\\))
 

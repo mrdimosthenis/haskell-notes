@@ -1,4 +1,4 @@
-module Exercises.AD_Arithmetic where
+module AD_Arithmetic where
 
 findStep :: Integral n => [n] -> n
 findStep (x:y:z:_) = let step1 = y - x

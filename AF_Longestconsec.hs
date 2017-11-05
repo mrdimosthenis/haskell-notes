@@ -1,4 +1,4 @@
-module Exercises.AF_Longestconsec where
+module AF_Longestconsec where
 
 import Data.List (maximumBy)
 import Data.Function (on)

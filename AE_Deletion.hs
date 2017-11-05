@@ -1,4 +1,4 @@
-module Exercises.AE_Deletion where
+module AE_Deletion where
 
 import qualified Data.Map as Map
 
