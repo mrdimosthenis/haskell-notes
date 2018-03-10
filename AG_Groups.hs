@@ -1,4 +1,4 @@
-module AG_Groups where
+module AG_Groups wherenextPair
 
 groupCheck :: String -> Bool
 groupCheck "" = True
