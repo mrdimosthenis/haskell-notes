@@ -1,4 +1,4 @@
-module AP_RectangleRot where
+module P_RectangleRot where
 
 rotate :: (Float, Float) -> (Float, Float)
 rotate (x, y) = (x * cos v - y * sin v, x * sin v + y * cos v)

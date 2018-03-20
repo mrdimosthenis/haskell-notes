@@ -1,4 +1,4 @@
-module AJ_Scramblies where
+module J_Scramblies where
 
 import Data.List ((\\))
 

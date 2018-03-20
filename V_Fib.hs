@@ -1,4 +1,4 @@
-module AV_Fib where
+module V_Fib where
 
 initPair :: (Integer, Integer)
 initPair = (1, 1)

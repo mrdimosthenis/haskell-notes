@@ -1,4 +1,4 @@
-module AK_LargestDigits where
+module K_LargestDigits where
 
 import Data.List (tails)
 

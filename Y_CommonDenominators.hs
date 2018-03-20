@@ -1,4 +1,4 @@
-module AY_CommonDenominators where
+module Y_CommonDenominators where
 
 type Ratio a = (a, a)
 

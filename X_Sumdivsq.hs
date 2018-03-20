@@ -1,4 +1,4 @@
-module AX_Sumdivsq where
+module X_Sumdivsq where
 
 import Data.Ratio ((%))
 

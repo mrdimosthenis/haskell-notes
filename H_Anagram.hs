@@ -1,4 +1,4 @@
-module AH_Anagram where
+module H_Anagram where
 
 import qualified Data.Map as Map
 

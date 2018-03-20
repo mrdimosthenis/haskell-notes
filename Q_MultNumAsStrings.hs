@@ -1,4 +1,4 @@
-module AQ_MultNumAsStrings where
+module Q_MultNumAsStrings where
 
 multiply :: String -> String -> String
 multiply xs ys = show $ parse xs * parse ys

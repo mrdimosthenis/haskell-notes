@@ -1,4 +1,4 @@
-module AN_BreakCamelCase where
+module N_BreakCamelCase where
 
 import Data.Char (isUpper)
 

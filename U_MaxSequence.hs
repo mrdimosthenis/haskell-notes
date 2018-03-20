@@ -1,4 +1,4 @@
-module AU_MaxSequence where
+module U_MaxSequence where
 
 import Data.List (tails,inits)
 

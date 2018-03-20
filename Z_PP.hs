@@ -1,4 +1,4 @@
-module AZ_PP where
+module Z_PP where
 
 range :: Integer -> Integer -> [Integer]
 range a n = [2 .. floor (logBase (fromIntegral a) (fromIntegral n) :: Double) + 1]

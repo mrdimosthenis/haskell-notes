@@ -1,4 +1,4 @@
-module AT_WeightSort where
+module T_WeightSort where
 
 import Data.Char (digitToInt)
 import Data.List (sortBy)

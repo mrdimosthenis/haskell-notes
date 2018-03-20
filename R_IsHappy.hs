@@ -1,4 +1,4 @@
-module AR_IsHappy where
+module R_IsHappy where
 
 import Data.Char (digitToInt)
 

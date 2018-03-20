@@ -1,4 +1,4 @@
-module AI_Parentheses where
+module I_Parentheses where
 
 charValue :: Char -> Int
 charValue '(' = 1

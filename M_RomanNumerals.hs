@@ -1,4 +1,4 @@
-module AL_RomanNumerals where
+module M_RomanNumerals where
 
 import Data.Char (digitToInt)
 

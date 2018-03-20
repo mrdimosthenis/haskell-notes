@@ -1,4 +1,4 @@
-module AL_Doubles where
+module L_Doubles where
 
   doubles :: Int -> Int -> Double
   doubles maxk maxn = sum

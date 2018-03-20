@@ -1,4 +1,4 @@
-module AO_PascalsTriangle where
+module O_PascalsTriangle where
 
 pascalsTriangle :: Integer -> [Integer]
 pascalsTriangle x = [binCoefficient i j | i <- [0..x-1], j <- [0..i]]

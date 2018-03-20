@@ -1,4 +1,4 @@
-module AE_Deletion where
+module E_Deletion where
 
 import qualified Data.Map as Map
 

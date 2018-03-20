@@ -1,4 +1,4 @@
-module AW_Rot13 where
+module W_Rot13 where
 
 import Data.Char
 

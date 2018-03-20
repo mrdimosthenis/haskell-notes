@@ -1,4 +1,4 @@
-module AS_Reduction where
+module S_Reduction where
 
 data Direction = North | East | West | South deriving (Eq, Show)
 
