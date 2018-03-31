@@ -1,6 +1,6 @@
 module A_PowerOfThor1 where
 
-  import System.IO
+import System.IO
 import Control.Monad
 
 main :: IO ()
